@@ -1,4 +1,39 @@
 -
+  date: 2020-10-20
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-chasing-the-ghost-network-security-hackathon-nov-2-2020-jan-aabfa597aeb6
+  author: Ethereum Classic Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs Announces Chasing the GHOST: Network Security Hackathon, Nov 2, 2020 — Jan 11, 2021"
+  tags: ["announcement", "teams", "development", "mining"]
+-
+  date: 2020-10-21
+  link: https://static.iohk.io/docs/etc/ecip-comparison-for-51-attack-resistance.pdf
+  author: Kostis Karantias
+  source: IOHK
+  title: "ECIP Comparison for 51% attack Resistance"
+  tags: ["mining", "development"]
+-
+  date: 2020-10-17
+  link: https://2miners.com/blog/how-to-mine-ethereum-and-ethereum-classic-on-4gb-gpus/
+  author: Darek Piotrowski
+  source: 2Miners
+  title: "How to Mine Ethereum and Ethereum Classic on 4GB GPUs"
+  tags: ["mining", "development"]
+-
+  date: 2020-10-09
+  link: https://thecurrencyanalytics.com/19976/ethereum-classic-etc-very-positive-about-filecoin-lotus-api-using-openrpc/
+  author: Steven Anderson
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) Very Positive about Filecoin Lotus API using OpenRPC"
+  tags: ["education", "development"]
+-
+  date: 2020-10-02
+  link: https://medium.com/etc-core/ethereum-classic-stakeholders-critical-security-release-to-prevent-51-attacks-aa83596a0903
+  author: Ethereum Classic Labs, Ethereum Classic Core
+  source: Ethereum Classic Core
+  title: "Ethereum Classic Stakeholders — Critical Security Release to Prevent 51% Attacks"
+  tags: ["announcement", "teams", "development", "mining"]
+-
   date: 2020-10-01
   link: https://etclabs.org/wp-content/uploads/2020/09/September-Insights-v4.pdf?utm_content=141347304&utm_medium=social&utm_source=twitter&hss_channel=tw-999916823964368896
   author: Ethereum Classic Labs 
@@ -12,6 +47,41 @@
   source: Input Output Hong Kong
   title: "Ethereum Classic - Mantis: IOHK Weekly Development Update #1 28 September 2020"
   tags: ["announcement", "teams", "development"]
+-
+  date: 2020-09-30
+  link: https://etherplan.com/2020/09/30/final-comments-on-the-implementation-of-mess-on-ethereum-classic/12842/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "Final Comments on the Implementation of MESS on Ethereum Classic"
+  tags: ["education"]
+-
+  date: 2020-09-27
+  link: https://etherplan.com/2020/09/27/ethereum-classic-protocol-compact-2020/12822/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "Ethereum Classic Protocol Compact 2020"
+  tags: ["education"]
+-
+  date: 2020-09-26
+  link: https://etherplan.com/2020/09/26/why-ethereum-classic-should-not-adopt-modified-exponential-subjective-scoring-mess/12792/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "Why Ethereum Classic Should not Adopt Modified Exponential Subjective Scoring (MESS)"
+  tags: ["education"]
+-
+  date: 2020-09-24
+  link: https://etherplan.com/2020/09/24/proof-of-work-in-nature/12718/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "Proof of Work in Nature"
+  tags: ["education"]
+-
+  date: 2020-09-23
+  link: https://etherplan.com/2020/09/23/ethereum-classic-principles-to-not-have-principles/12679/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "Ethereum Classic Principles: To not Have Principles"
+  tags: ["education"]
 -
   date: 2020-09-18
   link: https://medium.com/etc-core/agreeing-to-disagree-proposing-a-weakly-subjective-finality-solution-for-ethereum-classic-7daad47efc0e
