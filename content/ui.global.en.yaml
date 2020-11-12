@@ -30,8 +30,8 @@ continueReading: Continue Reading
 ## pop up
 warning:
   enabled: true
-  title: Update Clients
-  description: Consensus has been gathered regarding the Ethereum Classic Best Practice proposal "M.E.S.S." (Modified Exponential Subjective Scoring). The Core-Geth client is ready. The activation block height is 11_380_000 (estimation date 10th of Oct). The clients Besu & Core-Geth support also the ECIP 1099 - DAG tweak for mining starting from 3GB vid cards.
+  title: Urgent - Update ETC Clients
+  description: An Ethash library [bug](https://2miners.com/blog/ethereum-classic-bits-of-the-epoch-potential-network-instability-due-to-a-severe-ethash-library-bug/) was disclosed, please update your client to the most recent release version. Additionally, client software will be compatible with the Thanos upgrade (ECIP 1099) scheduled for block 11_700_000 in December 2020.
   button:
     link: /development/clients
-    text: Clients
+    text: Update Clients
